@@ -1,4 +1,4 @@
-git clone https://github.com/dani2221/SI_2022_lab1_206033.git
+git clone
 git add .
 git commit -m "Add 5 items to the shopping list"
 git commit -a -m "Add quantities to the items."
